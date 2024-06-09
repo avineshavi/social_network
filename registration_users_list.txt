@@ -1,0 +1,127 @@
+{
+  "email":"avinesh@gmail.com",
+  "first_name":"avinesh",
+  "last_name":"p",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"rakesh@gmail.com",
+  "first_name":"rakesh",
+  "last_name":"lal",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"aneesh@gmail.com",
+  "first_name":"aneesh",
+  "last_name":"kg",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"vineesh@gmail.com",
+  "first_name":"vineesh",
+  "last_name":"kl",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"akhinesh@gmail.com",
+  "first_name":"akhinesh",
+  "last_name":"p",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"sudheesh@gmail.com",
+  "first_name":"sudheesh",
+  "last_name":"p",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"sujeesh@gmail.com",
+  "first_name":"sujeesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"praveesh@gmail.com",
+  "first_name":"praveesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"akhilesh@gmail.com",
+  "first_name":"akhilesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"vimalesh@gmail.com",
+  "first_name":"vimalesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"timalesh@gmail.com",
+  "first_name":"timalesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"thamaresh@gmail.com",
+  "first_name":"thamaresh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"nandesh@gmail.com",
+  "first_name":"nandesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"kamesh@gmail.com",
+  "first_name":"kamesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"udayesh@gmail.com",
+  "first_name":"udayesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
+
+{
+  "email":"lathesh@gmail.com",
+  "first_name":"lathesh",
+  "last_name":"k",
+  "password":"1Avinesh@",
+  "confirm_password":"1Avinesh@"
+}
